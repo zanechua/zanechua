@@ -1,16 +1,23 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/zanechua/zanechua/main/polarbear.gif" />
 
-<!--
-**zanechua/zanechua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <h1>Hi there 👋</h1>
+</div>
 
-Here are some ideas to get you started:
+<br />
+<div align="center">
+    <img src="https://raw.githubusercontent.com/zanechua/zanechua/main/wave.gif" width="500" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <h1>Problem solving is hard</h1>
+</div>
+
+<br />
+<div align="center">
+    <img src="https://raw.githubusercontent.com/zanechua/zanechua/main/babysteps.gif" width="500" />
+</div>
+
+<div align="center">
+    <h1>Take baby steps</h1>
+</div>
